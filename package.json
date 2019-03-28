@@ -1,0 +1,26 @@
+{
+  "name": "nfl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bundler": "^0.8.0",
+    "jest": "^24.5.0",
+    "parcel": "^1.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsunh98/nfl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsunh98/nfl/issues"
+  },
+  "homepage": "https://github.com/jsunh98/nfl#readme"
+}
